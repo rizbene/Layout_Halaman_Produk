@@ -4,7 +4,7 @@ Project ini menampilkan layout halaman produk sederhana mengenai **layouting** d
 
 ## Screenshot Aplikasi
 
-![Screenshot Aplikasi](images/Screenshot.png)
+<img src="images/Screenshot.png" width="300">
 
 ## Cara menjalankan aplikasi di Android Studio
 
